@@ -72,3 +72,4 @@ SELECT
         WHEN Age > 60 THEN 'Pensioner'
     END AS Age_group
 FROM brighttv.default.user_profiles;
+
